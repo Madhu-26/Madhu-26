@@ -1,7 +1,7 @@
 <b> Hi👋🏻, I'm Madhusha Mathivannan </b>
 
 - 👩🏻‍🎓 I’m an Information System Undergraduate of University of Colombo School of Computing.
-- 📚 I'm currently learning React Native, React JS, Node JS & Android App Development. 
+- 📚 I'm currently learning .Net Development. 
 - 🤝🏻 I’m looking to collaborate on free and open source projects. 
 - 📧 You can reach me via email : madhushadavidmathivannan@gmail.com
 
