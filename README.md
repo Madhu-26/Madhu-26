@@ -1,9 +1,7 @@
 <b> Hi👋🏻, I'm Madhusha Mathivannan </b>
 
-- 👩🏻‍🎓 I’m an Information System Undergraduate of University of Colombo School of Computing.
-- 📚 I'm currently learning .NET, Angular Frameworks. 
-- 👩🏻‍💻 I'm working as an Intern - Technology at Virtusa (Pvt) Ltd. 
-- 🤝🏻 I’m looking to collaborate on free and open source projects. 
+- 👩🏻‍🎓 I’m an Information System Graduate from University of Colombo School of Computing. 
+- 👩🏻‍💻 I’m looking to collaborate on free and open source projects. 
 - 📧 You can reach me via email : madhushadavidmathivannan@gmail.com
 
 Connect with me :
