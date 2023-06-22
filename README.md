@@ -1,8 +1,9 @@
 <b> Hi👋🏻, I'm Madhusha Mathivannan </b>
 
-- 👩🏻‍🎓 I’m an Information System Graduate from University of Colombo School of Computing. 
-- 👩🏻‍💻 I’m looking to collaborate on free and open source projects. 
-- 📧 You can reach me via email : madhushadavidmathivannan@gmail.com
+- 👩🏻‍🎓 Reading Master at Computer Science (University of Colombo School of Computing). 
+- 👩🏻‍🎓 Bsc in Information Systems (University of Colombo School of Computing). 
+- 👩🏻‍💻 I’m looking to collaborate on free and open-source projects. 
+- 📧 You can reach me via email: madhushadavidmathivannan@gmail.com
 
 Connect with me :
 <br/><br/> <a href="https://linkedin.com/in/madhusha-mathivannan26"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
